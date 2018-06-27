@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1002/rra.3296"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "View Journal Article", url = "https://doi.org/10.1002/rra.3296"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

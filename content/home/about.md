@@ -35,4 +35,4 @@ weight = 5
 
 
 
-I am a water resources engineer and assistant professor at Colorado State University. The majority of my research has been focused on sustainably integrating ecological and human needs into water resource management, both from engineering and social science perspectives. My work emphasizes the impacts of river management on aquatic ecosystems and explores new methods for mitigating management effects.
+I am a water resources engineer and assistant professor at [Colorado State University](https://www.colostate.edu) in the [Civil and Environmental Engineering Department](https://www.engr.colostate.edu/ce/). The majority of my research has been focused on sustainably integrating ecological and human needs into water resource management, both from engineering and social science perspectives. My work emphasizes the impacts of river management on aquatic ecosystems and explores new methods for mitigating management effects.

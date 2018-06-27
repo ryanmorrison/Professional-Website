@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ryanmorrison.github.io/"
+baseurl = "http://www.ryanmorrison.org"
 
 # Title of your site
 title = "Ryan Morrison, PhD, PE"
@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Ryan Morrison.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ryan.morrison@colostate.edu"
-  address = "1372 Campus Delivery, Department of Civil and Environmental Engineering, Fort Collins, CO 80523-1392, USA"
+  address = "Engineering B208 (Physical Location), 1372 Campus Delivery, Department of Civil and Environmental Engineering, Fort Collins, CO 80523-1392, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "970.491.6097"
   #skype = "echo123"
@@ -96,11 +96,11 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 3
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "40.575663"
+  longitude = "-105.083649"
+  zoom = 10
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -162,7 +162,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["blue.css"]
   custom_js  = []
 
   # Publication types.
@@ -242,6 +242,11 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/ryanmorrison"
+
+    [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-8612-1684"
 
 
 # Navigation Links
