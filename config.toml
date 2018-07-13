@@ -228,10 +228,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:ryan.morrison@colostate.edu"
 
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/ryanrmorrison"
 
   [[params.social]]
     icon = "google-scholar"
