@@ -8,13 +8,20 @@ date = 2018-06-27
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = "Under construction..."
+# subtitle = "Under construction..."
 
 # Order that this section will appear in.
 weight = 60
 
 +++
 
-<!-- This is an example of using the *custom* widget to create your own homepage section.
+I teach the following courses in the [CSU Department of Civil and Environmental Engineering](http://www.engr.colostate.edu/ce/index.shtml):
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
+- CIVE 330: Ecological Engineering
+- CIVE 413: Environmental River Mechanics
+- CIVE 613: Stream Rehabilitation Design (scheduled for Spring 2020)
+
+I have also taught the following courses elsewhere:
+
+- CE 331: Fluid Mechanics (University of New Mexico, Fall 2013)
+- CE 541: Hydrogeology (University of New Mexico, Fall 2014)
